@@ -84,6 +84,7 @@ main{
     width: max-content;
     border: 2px solid var(--bg-heading-cta);
     cursor: pointer;
+    transition: all 0.4s;
 }
 .item-1 .cta{
     color: var(--bright-orange);
